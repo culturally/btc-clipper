@@ -1,5 +1,6 @@
 # Bitcoin Clipper 
-Simple Bitcoin Stealer By Manipulating Clipboard with Sandbox,Task Manager,VM detection 
+Simple Bitcoin Stealer By Manipulating Clipboard with Sandbox,Task Manager,VM detection.
+This repo was more of a fun project than actual serious malware.
 ## DISCLAIMER
 
 This code and any associated documentation are provided for educational and informational purposes only. It is intended to showcase techniques for identifying virtual machines and sandbox environments, which can be useful for understanding system contexts, security research, and threat detection.
